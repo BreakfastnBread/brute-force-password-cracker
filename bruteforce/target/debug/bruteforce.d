@@ -1,1 +1,0 @@
-/Users/hugomayo/Documents/projects/code/schizo_colab/python/brute-force-password-cracker/bruteforce/target/debug/bruteforce: /Users/hugomayo/Documents/projects/code/schizo_colab/python/brute-force-password-cracker/bruteforce/src/main.rs
